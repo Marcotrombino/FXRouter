@@ -6,7 +6,7 @@ A simple JavaFX router to switch between application scenes
 [Example](#example)
 
 ## Download
-Get latest release[here](https://github.com/Marcotrombino/FXRouter/releases/latest)
+Get latest release [here](https://github.com/Marcotrombino/FXRouter/releases/latest)
 
 ### Advantages
 You can switch between your scenes from <b>anywhere</b> through a simple method, without worrying about annoying Stage settings.
