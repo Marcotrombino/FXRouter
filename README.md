@@ -15,7 +15,7 @@ You can switch between your scenes from <b>anywhere</b> through a simple method,
 ### 1. Bind
 Import FXRouter from its package:
 ```java
-  import myAppPackage.FXRouter;
+  import com.github.fxrouter.FXRouter;
 ```
 Connect FXRouter to your application stage: call `bind()` from your main class `start()` method (if you use IntelliJ IDEA) or similar:
 ```java
