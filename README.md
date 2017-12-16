@@ -13,7 +13,7 @@ You can switch between your scenes from <b>anywhere</b> through a simple method,
 
 ## Usage
 ### 1. Bind
-Import FXRouter from its package:
+Add FXRouter as project dependency and import it from its package:
 ```java
   import com.github.fxrouter.FXRouter;
 ```
