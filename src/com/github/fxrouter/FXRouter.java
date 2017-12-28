@@ -29,7 +29,7 @@ import javafx.animation.FadeTransition;
  * FXRouter allows to manage scenes switching on JavaFX Application with an easy API
  * Inspired by Angular JS $routeProvider
  * @author Marco Trombino
- * @version 0.1.0
+ * @version 1.0.0
  */
 public final class FXRouter {
     private static final String WINDOW_TITLE = "";
