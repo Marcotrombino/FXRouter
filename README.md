@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/Marcotrombino/FXRouter/blob/master/fxrouterlogo.png"></p>
 
 # FXRouter
-[![release](http://github-release-version.herokuapp.com/github/Marcotrombino/FXRouter/release.svg?style=flat)](https://github.com/allure-framework/allure-core/releases/latest)
+[![release](http://github-release-version.herokuapp.com/github/Marcotrombino/FXRouter/release.svg?style=flat)](https://github.com/Marcotrombino/FXRouter/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A simple JavaFX router to switch between application scenes
